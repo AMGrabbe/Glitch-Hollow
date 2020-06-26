@@ -1,0 +1,2755 @@
+fileFormatVersion: 2
+guid: b691b19febfff86439d45ad1e40d8818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6230746871740585216
+    second: phantom_glitch__x1_talk_png_1354836333_0
+  - first:
+      213: -4067557217912234355
+    second: phantom_glitch__x1_talk_png_1354836333_1
+  - first:
+      213: -1329864341960941717
+    second: phantom_glitch__x1_talk_png_1354836333_2
+  - first:
+      213: 3623788591153591173
+    second: phantom_glitch__x1_talk_png_1354836333_3
+  - first:
+      213: -5877596047969486113
+    second: phantom_glitch__x1_talk_png_1354836333_4
+  - first:
+      213: -6207740158060582097
+    second: phantom_glitch__x1_talk_png_1354836333_5
+  - first:
+      213: -2151048701215624164
+    second: phantom_glitch__x1_talk_png_1354836333_6
+  - first:
+      213: -8011996527588623558
+    second: phantom_glitch__x1_talk_png_1354836333_7
+  - first:
+      213: -6426301881361314893
+    second: phantom_glitch__x1_talk_png_1354836333_8
+  - first:
+      213: 6455429575415325370
+    second: phantom_glitch__x1_talk_png_1354836333_9
+  - first:
+      213: -7950163641863378344
+    second: phantom_glitch__x1_talk_png_1354836333_10
+  - first:
+      213: 8907901676300989159
+    second: phantom_glitch__x1_talk_png_1354836333_11
+  - first:
+      213: -3681661546796439979
+    second: phantom_glitch__x1_talk_png_1354836333_12
+  - first:
+      213: 5674068536231266733
+    second: phantom_glitch__x1_talk_png_1354836333_13
+  - first:
+      213: 6437536752298949277
+    second: phantom_glitch__x1_talk_png_1354836333_14
+  - first:
+      213: 8056890243346994893
+    second: phantom_glitch__x1_talk_png_1354836333_15
+  - first:
+      213: 4785927530467448578
+    second: phantom_glitch__x1_talk_png_1354836333_16
+  - first:
+      213: -2798928769050367714
+    second: phantom_glitch__x1_talk_png_1354836333_17
+  - first:
+      213: -4393586423788812235
+    second: phantom_glitch__x1_talk_png_1354836333_18
+  - first:
+      213: -5053521622721293597
+    second: phantom_glitch__x1_talk_png_1354836333_19
+  - first:
+      213: -1498415376526598776
+    second: phantom_glitch__x1_talk_png_1354836333_20
+  - first:
+      213: -1535135521283952957
+    second: phantom_glitch__x1_talk_png_1354836333_21
+  - first:
+      213: 5508033618603119127
+    second: phantom_glitch__x1_talk_png_1354836333_22
+  - first:
+      213: 5473351297504467506
+    second: phantom_glitch__x1_talk_png_1354836333_23
+  - first:
+      213: 5255482109467136175
+    second: phantom_glitch__x1_talk_png_1354836333_24
+  - first:
+      213: -4100556652104107573
+    second: phantom_glitch__x1_talk_png_1354836333_25
+  - first:
+      213: 6209944713609318444
+    second: phantom_glitch__x1_talk_png_1354836333_26
+  - first:
+      213: -2966063140885224612
+    second: phantom_glitch__x1_talk_png_1354836333_27
+  - first:
+      213: 2072543484918256183
+    second: phantom_glitch__x1_talk_png_1354836333_28
+  - first:
+      213: -5593633691727399154
+    second: phantom_glitch__x1_talk_png_1354836333_29
+  - first:
+      213: -368542555529871036
+    second: phantom_glitch__x1_talk_png_1354836333_30
+  - first:
+      213: 4743415713264772329
+    second: phantom_glitch__x1_talk_png_1354836333_31
+  - first:
+      213: -7530031734843929374
+    second: phantom_glitch__x1_talk_png_1354836333_32
+  - first:
+      213: 5084000193660182823
+    second: phantom_glitch__x1_talk_png_1354836333_33
+  - first:
+      213: -3473545864641252687
+    second: phantom_glitch__x1_talk_png_1354836333_34
+  - first:
+      213: 1795607811070908336
+    second: phantom_glitch__x1_talk_png_1354836333_35
+  - first:
+      213: 1918179267945749079
+    second: phantom_glitch__x1_talk_png_1354836333_36
+  - first:
+      213: 34934538873522349
+    second: phantom_glitch__x1_talk_png_1354836333_37
+  - first:
+      213: 4551438795486591870
+    second: phantom_glitch__x1_talk_png_1354836333_38
+  - first:
+      213: 3510436710244119422
+    second: phantom_glitch__x1_talk_png_1354836333_39
+  - first:
+      213: 6269299801017653959
+    second: phantom_glitch__x1_talk_png_1354836333_40
+  - first:
+      213: 3664664464465100038
+    second: phantom_glitch__x1_talk_png_1354836333_41
+  - first:
+      213: 7466895040124659900
+    second: phantom_glitch__x1_talk_png_1354836333_42
+  - first:
+      213: -8448254426199740805
+    second: phantom_glitch__x1_talk_png_1354836333_43
+  - first:
+      213: -937317117054399528
+    second: phantom_glitch__x1_talk_png_1354836333_44
+  - first:
+      213: -8345203384411048785
+    second: phantom_glitch__x1_talk_png_1354836333_45
+  - first:
+      213: 923557200349675884
+    second: phantom_glitch__x1_talk_png_1354836333_46
+  - first:
+      213: -612279502805600696
+    second: phantom_glitch__x1_talk_png_1354836333_47
+  - first:
+      213: -2917245938137585001
+    second: phantom_glitch__x1_talk_png_1354836333_48
+  - first:
+      213: -6753264206676295254
+    second: phantom_glitch__x1_talk_png_1354836333_49
+  - first:
+      213: -6516433835746887008
+    second: phantom_glitch__x1_talk_png_1354836333_50
+  - first:
+      213: -7832658222231673190
+    second: phantom_glitch__x1_talk_png_1354836333_51
+  - first:
+      213: 6098308860995010115
+    second: phantom_glitch__x1_talk_png_1354836333_52
+  - first:
+      213: 3678058317276948751
+    second: phantom_glitch__x1_talk_png_1354836333_53
+  - first:
+      213: -8814604408064971112
+    second: phantom_glitch__x1_talk_png_1354836333_54
+  - first:
+      213: 8428922463112119231
+    second: phantom_glitch__x1_talk_png_1354836333_55
+  - first:
+      213: -7698103288063561557
+    second: phantom_glitch__x1_talk_png_1354836333_56
+  - first:
+      213: -6066398905727787970
+    second: phantom_glitch__x1_talk_png_1354836333_57
+  - first:
+      213: 668974924168491670
+    second: phantom_glitch__x1_talk_png_1354836333_58
+  - first:
+      213: -4715426001073077614
+    second: phantom_glitch__x1_talk_png_1354836333_59
+  - first:
+      213: -792067875883183775
+    second: phantom_glitch__x1_talk_png_1354836333_60
+  - first:
+      213: 469975726595023541
+    second: phantom_glitch__x1_talk_png_1354836333_61
+  - first:
+      213: -6124976207960464545
+    second: phantom_glitch__x1_talk_png_1354836333_62
+  - first:
+      213: -6893265545935022666
+    second: phantom_glitch__x1_talk_png_1354836333_63
+  - first:
+      213: -1293074456664863826
+    second: phantom_glitch__x1_talk_png_1354836333_64
+  - first:
+      213: -7109352940828207792
+    second: phantom_glitch__x1_talk_png_1354836333_65
+  - first:
+      213: -5723198697333533373
+    second: phantom_glitch__x1_talk_png_1354836333_66
+  - first:
+      213: -5218758811862543244
+    second: phantom_glitch__x1_talk_png_1354836333_67
+  - first:
+      213: 8926670456722559653
+    second: phantom_glitch__x1_talk_png_1354836333_68
+  - first:
+      213: -8757250254496393178
+    second: phantom_glitch__x1_talk_png_1354836333_69
+  - first:
+      213: -1487196361039109952
+    second: phantom_glitch__x1_talk_png_1354836333_70
+  - first:
+      213: -8248782933990938526
+    second: phantom_glitch__x1_talk_png_1354836333_71
+  - first:
+      213: -4627150790001659850
+    second: phantom_glitch__x1_talk_png_1354836333_72
+  - first:
+      213: -6605437158651549983
+    second: phantom_glitch__x1_talk_png_1354836333_73
+  - first:
+      213: 3523748401356858206
+    second: phantom_glitch__x1_talk_png_1354836333_74
+  - first:
+      213: 882211259480038579
+    second: phantom_glitch__x1_talk_png_1354836333_75
+  - first:
+      213: -2808339353879678832
+    second: phantom_glitch__x1_talk_png_1354836333_76
+  - first:
+      213: 4242390738023295326
+    second: phantom_glitch__x1_talk_png_1354836333_77
+  - first:
+      213: -660319185578229109
+    second: phantom_glitch__x1_talk_png_1354836333_78
+  - first:
+      213: 6569725633177716971
+    second: phantom_glitch__x1_talk_png_1354836333_79
+  - first:
+      213: -966467728268173811
+    second: phantom_glitch__x1_talk_png_1354836333_80
+  - first:
+      213: 5133307049380792999
+    second: phantom_glitch__x1_talk_png_1354836333_81
+  - first:
+      213: 946384735024561889
+    second: phantom_glitch__x1_talk_png_1354836333_82
+  - first:
+      213: 2268247713387699130
+    second: phantom_glitch__x1_talk_png_1354836333_83
+  - first:
+      213: -4975295999592002567
+    second: phantom_glitch__x1_talk_png_1354836333_84
+  - first:
+      213: 6242919566213906155
+    second: phantom_glitch__x1_talk_png_1354836333_85
+  - first:
+      213: 6046068097622162252
+    second: phantom_glitch__x1_talk_png_1354836333_86
+  - first:
+      213: 1062557818616976649
+    second: phantom_glitch__x1_talk_png_1354836333_87
+  - first:
+      213: -9089019530564822090
+    second: phantom_glitch__x1_talk_png_1354836333_88
+  - first:
+      213: -7555515908459186589
+    second: phantom_glitch__x1_talk_png_1354836333_89
+  - first:
+      213: -6001898500273028595
+    second: phantom_glitch__x1_talk_png_1354836333_90
+  - first:
+      213: -2322479580728315522
+    second: phantom_glitch__x1_talk_png_1354836333_91
+  - first:
+      213: 9138857050323562129
+    second: phantom_glitch__x1_talk_png_1354836333_92
+  - first:
+      213: -3501812025512191041
+    second: phantom_glitch__x1_talk_png_1354836333_93
+  - first:
+      213: 633109304167790579
+    second: phantom_glitch__x1_talk_png_1354836333_94
+  - first:
+      213: 4128370300086592358
+    second: phantom_glitch__x1_talk_png_1354836333_95
+  - first:
+      213: 7032137683035089571
+    second: phantom_glitch__x1_talk_png_1354836333_96
+  - first:
+      213: 392066485555004994
+    second: phantom_glitch__x1_talk_png_1354836333_97
+  - first:
+      213: 8143156989714975144
+    second: phantom_glitch__x1_talk_png_1354836333_98
+  - first:
+      213: 237141703547015037
+    second: phantom_glitch__x1_talk_png_1354836333_99
+  - first:
+      213: 377221621000912290
+    second: phantom_glitch__x1_talk_png_1354836333_100
+  - first:
+      213: 3492231807261978649
+    second: phantom_glitch__x1_talk_png_1354836333_101
+  - first:
+      213: -5065148336893674042
+    second: phantom_glitch__x1_talk_png_1354836333_102
+  - first:
+      213: 226264501657038235
+    second: phantom_glitch__x1_talk_png_1354836333_103
+  - first:
+      213: -288075796723774128
+    second: phantom_glitch__x1_talk_png_1354836333_104
+  - first:
+      213: -2434718484909248232
+    second: phantom_glitch__x1_talk_png_1354836333_105
+  - first:
+      213: -6805963962672848754
+    second: phantom_glitch__x1_talk_png_1354836333_106
+  - first:
+      213: -939114588414944094
+    second: phantom_glitch__x1_talk_png_1354836333_107
+  - first:
+      213: -7562678671506403755
+    second: phantom_glitch__x1_talk_png_1354836333_108
+  - first:
+      213: 2343427204832817189
+    second: phantom_glitch__x1_talk_png_1354836333_109
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3852
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71091c7b02c18b94da6644dddb07f264
+      internalID: 6230746871740585216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3852
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81afbc867afa5044aba2d356dd38ee49
+      internalID: -4067557217912234355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3852
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b69654baef292b439d8c66672e632ef
+      internalID: -1329864341960941717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3852
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ffb544774729e4e956731052c8fec5
+      internalID: 3623788591153591173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3852
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8e651feb7f65b49949c83d88972e22
+      internalID: -5877596047969486113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3852
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4706632d2611f843b90a8f84b11a43b
+      internalID: -6207740158060582097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3638
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1efc9688da8d524d8ffaf74c2ce7b17
+      internalID: -2151048701215624164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3638
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ba8b6b7f1ccf54bbcb378a9cc0a966
+      internalID: -8011996527588623558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3638
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff86830b84a0434d83ec1c0e636fd20
+      internalID: -6426301881361314893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3638
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5772445cca6b3ba45b194928fd0d5103
+      internalID: 6455429575415325370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3638
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce8cdeb17b70574eb14d21a6f53c662
+      internalID: -7950163641863378344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3638
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6083b3f216861684aac90da1a1b0a0a5
+      internalID: 8907901676300989159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3424
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49888d7c3d0eeb74794515bc1e54e690
+      internalID: -3681661546796439979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3424
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71544de62cef69499db78b956a1ebfb
+      internalID: 5674068536231266733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3424
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f83bdc8853e2d4c91bb36c634eaa4e
+      internalID: 6437536752298949277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3424
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89806d003868d9f428eb8c456813b38f
+      internalID: 8056890243346994893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3424
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247685bd80b83d84da8c8db99b78055e
+      internalID: 4785927530467448578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_17
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3424
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e99fc5452db2342a42310dd11a6c1c
+      internalID: -2798928769050367714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3210
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890daf8be99883042a8c179aceaab428
+      internalID: -4393586423788812235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3210
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096f1bb9ab500f45aba95eb56d42930
+      internalID: -5053521622721293597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3210
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a459c91cbd33e94aa840c6fff3953fc
+      internalID: -1498415376526598776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3210
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65cd5b9ca7a35c49966f7d4cc353db0
+      internalID: -1535135521283952957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3210
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eac269baa424b4db7e350c4e062bd9
+      internalID: 5508033618603119127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3210
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ae24ce1044bbe4cb2c97dc8d3b084f
+      internalID: 5473351297504467506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2996
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80b09fee2cd822459a345e5e576ee26
+      internalID: 5255482109467136175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2996
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05e8d6c8295c4047b2769fcbe16c65d
+      internalID: -4100556652104107573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2996
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023757508e6f858439adbe995bfbe6d8
+      internalID: 6209944713609318444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2996
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe98fb98c7bc8c840a233762a4d5c6b7
+      internalID: -2966063140885224612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2996
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a618a6bdf908523498097f8e4c5615c4
+      internalID: 2072543484918256183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_29
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2996
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d76d0792b2c3542a64597d08e0df4d
+      internalID: -5593633691727399154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2782
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6630384404b78d64387ca41a1ece4616
+      internalID: -368542555529871036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2782
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772b03277578ee149b83e50241d5b83f
+      internalID: 4743415713264772329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2782
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d4c4b71df37e448814a65a348dd10
+      internalID: -7530031734843929374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2782
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25435c90010344180357500f0a5f2d
+      internalID: 5084000193660182823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2782
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1375c1430bb3f4542bf2a45e6b866497
+      internalID: -3473545864641252687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_35
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2782
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeaca7eeb61e6740852407650320267
+      internalID: 1795607811070908336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9651e16e56b9f184aabfc62323cf85b2
+      internalID: 1918179267945749079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d9baa06dde76a44952ff5b1ae6bd63
+      internalID: 34934538873522349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9154eee2f061ca345851671e1bcb978d
+      internalID: 4551438795486591870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee1267854556f040b646e7b08bfd370
+      internalID: 3510436710244119422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_40
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c376bb43e69514488796ddb7e705bba
+      internalID: 6269299801017653959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_41
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff6ccba3966a4647a8141cb6064ba89
+      internalID: 3664664464465100038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc8a7a43e29fb458852d4a027d43ee
+      internalID: 7466895040124659900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eeda523edfbc342a6ffcc8b055644f
+      internalID: -8448254426199740805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_44
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60cbe080bc54546aeb7c0d913336a8
+      internalID: -937317117054399528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_45
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1880b4d02be36f458463ce0f0971ce4
+      internalID: -8345203384411048785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_46
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d758508ba2d048a2a835200d7d94e
+      internalID: 923557200349675884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_47
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7b038a8263a1647bb4a483c4390da1
+      internalID: -612279502805600696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6c031ca7f0e93499959c333e9ffd43
+      internalID: -2917245938137585001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772c931ad1819248bdf48a2e94c9f56
+      internalID: -6753264206676295254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510fb2459caa1a46925d0172e7321e7
+      internalID: -6516433835746887008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4a0dba1f387b488fc1d6212b2183c
+      internalID: -7832658222231673190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_52
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ab17ffe930d4640bb6920a8d7dd38a
+      internalID: 6098308860995010115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f309c7985c569544ae413b6354c9dc3
+      internalID: 3678058317276948751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7300bac38232227479d8076bcfd8e1d1
+      internalID: -8814604408064971112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_55
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac7dc796b90cf4283f93b4afe5f648
+      internalID: 8428922463112119231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_56
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc25d4c682aab64fa6648c840a60d0d
+      internalID: -7698103288063561557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209b2ff8dce04fc4b94d2d641035fcca
+      internalID: -6066398905727787970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_58
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be28735d282a545aad70c9d349c731
+      internalID: 668974924168491670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_59
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f732a10b287795549a46f7a37a746196
+      internalID: -4715426001073077614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c087e07e0a2280940a40932b32b9c8cc
+      internalID: -792067875883183775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c6f735b033b8498c5e9c026986fe1
+      internalID: 469975726595023541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_62
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd05fef19d6524d979c8452c133c4c
+      internalID: -6124976207960464545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_63
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17094c8a4597f9f4aa30b16adec330fc
+      internalID: -6893265545935022666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_64
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0dfe67b99ce694282283a1e6aaa422
+      internalID: -1293074456664863826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_65
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d3e998228c0bc4e8d7b0207006dcf8
+      internalID: -7109352940828207792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3cb3aed1f003940b15119195baf8b1
+      internalID: -5723198697333533373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_67
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c7ea16235f38a4aa6481f390b1b19d
+      internalID: -5218758811862543244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_68
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f4a3b1c92e914e9e56e5a4b3d5f84
+      internalID: 8926670456722559653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f080ca24580b646b7366eccc21ddbf
+      internalID: -8757250254496393178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_70
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2442650268ddc4990812c80855cc75
+      internalID: -1487196361039109952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_71
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b108989c2523a7e4a91462899bf59047
+      internalID: -8248782933990938526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d24d87ca651d94da5d0f6bef6e3ea4
+      internalID: -4627150790001659850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e9b39f8418a314398c074b8c6c3fdf
+      internalID: -6605437158651549983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5c062507b11ac4092c8c8ee97d5344
+      internalID: 3523748401356858206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_75
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd22a14780bf454d90822780c2c142d
+      internalID: 882211259480038579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_76
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac16fc3739e03494bb3e00ce74649532
+      internalID: -2808339353879678832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_77
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee24265c71b7b77468702d3021d3deef
+      internalID: 4242390738023295326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c0440b8aef6a04b984e95bac271be9
+      internalID: -660319185578229109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_79
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c349724bef0390443b43a9f5afa4d8fe
+      internalID: 6569725633177716971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_80
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1dfe0f8f40dc842acd8cccd41c8454
+      internalID: -966467728268173811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_81
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c786b759ff5764d94e3470684d78ea
+      internalID: 5133307049380792999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_82
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d21b116a81a5e4cb0b418e90490607
+      internalID: 946384735024561889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_83
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0007ced89e6274590e572547639d7e
+      internalID: 2268247713387699130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429e0859ec25aae4c9c3c331be035224
+      internalID: -4975295999592002567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe0f4a3195b6264583b7bbe8fa1ee4e
+      internalID: 6242919566213906155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_86
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdc09250e728fa42a6c3c6ed2f274b1
+      internalID: 6046068097622162252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_87
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9aa774945464246ba9021981d682cb
+      internalID: 1062557818616976649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_88
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae58e49a18c70424ba4bce32c1acebe1
+      internalID: -9089019530564822090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_89
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13762f48a34bd5a4ea5ab9a1c2271b12
+      internalID: -7555515908459186589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6618186da21704a91b9f0f4685b90b
+      internalID: -6001898500273028595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8554e0e7132347499f21d6bb7e0afd2
+      internalID: -2322479580728315522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_92
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f654647086884986d42ed48bcc9fa
+      internalID: 9138857050323562129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_93
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7dd2c0c85e0e4fa74ebf2c3ed46b8
+      internalID: -3501812025512191041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_94
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d849b82e0d4c499e51523c9c14568
+      internalID: 633109304167790579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_95
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f108635efab3d4f930fb760efa82e8
+      internalID: 4128370300086592358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8c097af93fe047956aa7b891b76f1
+      internalID: 7032137683035089571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_97
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d6be231332fac47b52b1a89da40df0
+      internalID: 392066485555004994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_98
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008124ba95bf36d4b91f945766504327
+      internalID: 8143156989714975144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_99
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9829587b76f8458979a59d1617cd6
+      internalID: 237141703547015037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_100
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4c7b52222ddfa4483631726e803816
+      internalID: 377221621000912290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_101
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fabe829c7ba844bba247246cc3dde1
+      internalID: 3492231807261978649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4829162e8e324dad3c0dc9a3c0bee
+      internalID: -5065148336893674042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_103
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7de1930ea036c4eb111f71ddeb4a47
+      internalID: 226264501657038235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_104
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07f4f10f8bb6994cb9e95a70117c722
+      internalID: -288075796723774128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_105
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e8c97cbd11c484f9c24f6897283e66
+      internalID: -2434718484909248232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_106
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa645b5181c224d4aa895724f6265c50
+      internalID: -6805963962672848754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_107
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178961f5781893429ff081bfa4f6243
+      internalID: -939114588414944094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa2a60b6c6d70446948447d7df597d8
+      internalID: -7562678671506403755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_talk_png_1354836333_109
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59b5832a0c973c489d35de97bb12d01
+      internalID: 2343427204832817189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

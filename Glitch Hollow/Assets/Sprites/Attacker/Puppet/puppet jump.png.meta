@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 5c779bb3f6197f64bb71520318ee5307
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5777234990518962863
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_0
+  - first:
+      213: -710644840397232168
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_1
+  - first:
+      213: 8695659127810879185
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_2
+  - first:
+      213: 1154366404653490754
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_3
+  - first:
+      213: 6228098813791758554
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_4
+  - first:
+      213: -1231953695105070599
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_5
+  - first:
+      213: -2965747295328165315
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_6
+  - first:
+      213: 693220000600311087
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_7
+  - first:
+      213: -1153690699890030691
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_8
+  - first:
+      213: 1591707502630936702
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_9
+  - first:
+      213: -1732034790246182536
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_10
+  - first:
+      213: 8863421007999770361
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_11
+  - first:
+      213: 8373583826017295522
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_12
+  - first:
+      213: -6662394697761825063
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_13
+  - first:
+      213: 6530251920427100030
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_14
+  - first:
+      213: -5296649492420178994
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_15
+  - first:
+      213: -5848119206147186783
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_16
+  - first:
+      213: -2503220550903316892
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_17
+  - first:
+      213: 5180833144056155656
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_18
+  - first:
+      213: -382676454658076774
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_19
+  - first:
+      213: -78557539761567269
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_20
+  - first:
+      213: -5313994744748969138
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_21
+  - first:
+      213: 324810710089662972
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_22
+  - first:
+      213: 7931441390107095267
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_23
+  - first:
+      213: -3945024201738149680
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_24
+  - first:
+      213: -3279741215653530934
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_25
+  - first:
+      213: 2788832111481471980
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_26
+  - first:
+      213: 5332087149636634646
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_27
+  - first:
+      213: -2008459468552674374
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_28
+  - first:
+      213: 3395624094146290876
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_29
+  - first:
+      213: 6779649195651997959
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_30
+  - first:
+      213: -4594594040954452170
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_31
+  - first:
+      213: -1645391262843906369
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_32
+  - first:
+      213: -6882085747551099190
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_33
+  - first:
+      213: -5238517139412307757
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_34
+  - first:
+      213: 3487094125285274963
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_35
+  - first:
+      213: -2446029538118901911
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_36
+  - first:
+      213: -4856529304977335848
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_37
+  - first:
+      213: 5178817575648895305
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_38
+  - first:
+      213: 5431782619432592560
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_39
+  - first:
+      213: -6225727103296779900
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_40
+  - first:
+      213: -8178751753798247348
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_41
+  - first:
+      213: 5765601238755463008
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_42
+  - first:
+      213: 6867854773446548249
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_43
+  - first:
+      213: 1021515219119183147
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_44
+  - first:
+      213: -7903984681843694093
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_45
+  - first:
+      213: 5593122101441051805
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_46
+  - first:
+      213: 3796577980690691358
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_47
+  - first:
+      213: 4371986461242256397
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_48
+  - first:
+      213: -4924336501179548406
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_49
+  - first:
+      213: 2381555419148993465
+    second: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_50
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31016140b05450347acd8b90ae17a1fd
+      internalID: -5777234990518962863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3def3f530244de40ae4420a952217bf
+      internalID: -710644840397232168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43db0c4e2945c1408b09eab1d3022bc
+      internalID: 8695659127810879185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdf87fc17e08fb47905bb8926b3de71
+      internalID: 1154366404653490754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5317094e7a615f4088bf6db74445a3c
+      internalID: 6228098813791758554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5283ff151561cc47880e24ed4b1a025
+      internalID: -1231953695105070599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402f0df07aaecb64d9d00a9f78f88079
+      internalID: -2965747295328165315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_7
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 846
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26a548d4eb890f47957addf4c2b1df0
+      internalID: 693220000600311087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1746ae585b6bbf478a7d599efb1dc6f
+      internalID: -1153690699890030691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184a6660a9e51c845806282fff6f5ebc
+      internalID: 1591707502630936702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79dd8fadbbb905418ae37ffd0bdc288
+      internalID: -1732034790246182536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ff88fdb6d03b743b8325d2e123e320
+      internalID: 8863421007999770361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57e88ff2b66da4ca4a82f8a64c80a7
+      internalID: 8373583826017295522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_13
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b6a51b35dc7d49b939465ad0e84a5
+      internalID: -6662394697761825063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_14
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07361c9ed88dd2c4181ba08b89117c33
+      internalID: 6530251920427100030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 705
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3547d87b717d24eb17405b7b06bbd4
+      internalID: -5296649492420178994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07351a69f2c0eaf4bb2a4f190f592e83
+      internalID: -5848119206147186783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32a67478ba22b4abfdd850f313fd9b
+      internalID: -2503220550903316892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ecb83b31664d5479f95b86350df6e9
+      internalID: 5180833144056155656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6191f14e1af944aabebbfd181cf761
+      internalID: -382676454658076774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_20
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9037b7bb9e38254fb56cf0bb1b6bb39
+      internalID: -78557539761567269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_21
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a078d032f299fb04baf8c6e364caa4f1
+      internalID: -5313994744748969138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea4c82c3fc3fdf46804ac0049840c32
+      internalID: 324810710089662972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_23
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 564
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14618387e0f91ac4f9a471468e89e56f
+      internalID: 7931441390107095267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65c2c15c546bd94b9c145c45607239f
+      internalID: -3945024201738149680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ca60a9c55e8e43b19762b8686dc30
+      internalID: -3279741215653530934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34008077359c473469fa8dfe863d2e0e
+      internalID: 2788832111481471980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f970905ec7e1e8347974a14d7c16fa28
+      internalID: 5332087149636634646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd06369d87b411e46ad2f0b2b81b0bbb
+      internalID: -2008459468552674374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_29
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea66bcf37b20643b15337c08055a87
+      internalID: 3395624094146290876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_30
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d3a84886b7fc14b9d9e9cb8c841faf
+      internalID: 6779649195651997959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_31
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 423
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5cb2f1fa3629b4f8c971f1f50ecaef
+      internalID: -4594594040954452170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640717d60f604744f92a9b59e0c48c4c
+      internalID: -1645391262843906369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556cb7a08b3fbeb4f90d271c630f9d25
+      internalID: -6882085747551099190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7540c9e3e062d124db0fc42ffca67e93
+      internalID: -5238517139412307757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_35
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d366601cc535bd479bd0f249a4a619d
+      internalID: 3487094125285274963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_36
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e677ae3c4a2b540ad5eed8f478bebd
+      internalID: -2446029538118901911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_37
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f88a9e578554d499785f00b4389cb3
+      internalID: -4856529304977335848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_38
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c97dcea578ebd43b03af4721884c3d
+      internalID: 5178817575648895305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_39
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 282
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae35b1d80e949e42beed9d1e12e2b7f
+      internalID: 5431782619432592560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eded8960e57702140b03ac993de52b16
+      internalID: -6225727103296779900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b32bd1e4e093ed4793f225304d414ab
+      internalID: -8178751753798247348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a0d13fa0dd4d842bd4336238d0b70e
+      internalID: 5765601238755463008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_43
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66f9c67d0b9c70418b5584289bdea7f
+      internalID: 6867854773446548249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_44
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9cb059a8270804bbc25d0ae89f525c
+      internalID: 1021515219119183147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_45
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2d2eb11e809744fb3997414bb29ea6
+      internalID: -7903984681843694093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5680b734faf2b3b4199b0d8df0d29f9b
+      internalID: 5593122101441051805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_47
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 141
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd5a322bffd07d49b7104cdfc72827a
+      internalID: 3796577980690691358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797aff9328ed18d45967ae77ffe93bdf
+      internalID: 4371986461242256397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13b9007415980e44b280406f04aefc0
+      internalID: -4924336501179548406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bag_butler_accessory_10_bod_body10_closeArm_10_closeLeg_10_face_face10_farArm_10_farLeg_10_skull_skull10_x1_jump_png_1354838491_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 124
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51cbf6e74d059c409a9047258a50ce9
+      internalID: 2381555419148993465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

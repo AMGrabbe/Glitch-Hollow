@@ -1,0 +1,5 @@
+1 grass square = 1 world unit
+square 160x160
+canvas width 1920
+number of squares = 1920/160 = 12
+=> width is 12 world units

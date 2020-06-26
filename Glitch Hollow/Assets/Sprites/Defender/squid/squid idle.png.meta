@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: ae02bb6796a391f49901e7a67a396720
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6822735095214424371
+    second: squid idle_0
+  - first:
+      213: 5517326991826121914
+    second: squid idle_1
+  - first:
+      213: 261552353595617223
+    second: squid idle_2
+  - first:
+      213: 8435293638246504100
+    second: squid idle_3
+  - first:
+      213: 4004300430612314387
+    second: squid idle_4
+  - first:
+      213: 5148017444239388748
+    second: squid idle_5
+  - first:
+      213: -3508612419169774077
+    second: squid idle_6
+  - first:
+      213: 4452635231522057022
+    second: squid idle_7
+  - first:
+      213: 607457635367660399
+    second: squid idle_8
+  - first:
+      213: 7575926181291022084
+    second: squid idle_9
+  - first:
+      213: 1745851513169645194
+    second: squid idle_10
+  - first:
+      213: 8025500442926520425
+    second: squid idle_11
+  - first:
+      213: 2153368694563337157
+    second: squid idle_12
+  - first:
+      213: -624068897945686282
+    second: squid idle_13
+  - first:
+      213: -6827911648381833221
+    second: squid idle_14
+  - first:
+      213: -1077549358617386274
+    second: squid idle_15
+  - first:
+      213: -8199678409541526888
+    second: squid idle_16
+  - first:
+      213: 163468933234526806
+    second: squid idle_17
+  - first:
+      213: -7443599804866545630
+    second: squid idle_18
+  - first:
+      213: -5397453118721057931
+    second: squid idle_19
+  - first:
+      213: 1823637122111831721
+    second: squid idle_20
+  - first:
+      213: -7225071364811379975
+    second: squid idle_21
+  - first:
+      213: -9183213536384176602
+    second: squid idle_22
+  - first:
+      213: -1955312264276700791
+    second: squid idle_23
+  - first:
+      213: 3812683151692904731
+    second: squid idle_24
+  - first:
+      213: 906273647270567062
+    second: squid idle_25
+  - first:
+      213: -1998052123783544974
+    second: squid idle_26
+  - first:
+      213: -3943864040658082331
+    second: squid idle_27
+  - first:
+      213: -6346226463190257733
+    second: squid idle_28
+  - first:
+      213: -8754819325769622871
+    second: squid idle_29
+  - first:
+      213: 6087813619663351291
+    second: squid idle_30
+  - first:
+      213: 5821012247170321785
+    second: squid idle_31
+  - first:
+      213: 6315572739679370247
+    second: squid idle_32
+  - first:
+      213: -3825006229484592957
+    second: squid idle_33
+  - first:
+      213: -8242812787755244092
+    second: squid idle_34
+  - first:
+      213: 6440660636099548928
+    second: squid idle_35
+  - first:
+      213: -6180463118313241464
+    second: squid idle_36
+  - first:
+      213: 4733551879331341378
+    second: squid idle_37
+  - first:
+      213: 4721927179525178138
+    second: squid idle_38
+  - first:
+      213: 1253906550701230777
+    second: squid idle_39
+  - first:
+      213: 4418020679718518393
+    second: squid idle_40
+  - first:
+      213: 4329239137067668886
+    second: squid idle_41
+  - first:
+      213: 1187831639833909492
+    second: squid idle_42
+  - first:
+      213: -3899237545220862954
+    second: squid idle_43
+  - first:
+      213: 7884561030610473549
+    second: squid idle_44
+  - first:
+      213: -2007041081444861464
+    second: squid idle_45
+  - first:
+      213: 3637045403544254985
+    second: squid idle_46
+  - first:
+      213: 7138383696802311045
+    second: squid idle_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squid idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4218287eb26a6af4db4d5b6d9c976b61
+      internalID: -6822735095214424371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c51e6533145a5e45877b3ac435f573e
+      internalID: 5517326991826121914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da9a21fa204ae438e9ba8c6fc382c5
+      internalID: 261552353595617223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5902fb3155da524a8db1539c46a66d1
+      internalID: 8435293638246504100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ce6628f6472e64a926ba3ba62ffc48
+      internalID: 4004300430612314387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f15ec032f824b428e9076236850417
+      internalID: 5148017444239388748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994c37cd6585f0479ad581ebf6b4913
+      internalID: -3508612419169774077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57247ca93a5857a49a1b939a43948cbd
+      internalID: 4452635231522057022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a768bde690201b428c302bcd436c158
+      internalID: 607457635367660399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7717cadd5865ead40976b87315880c19
+      internalID: 7575926181291022084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87b5dc4c87fa6646a6ca6276a6e1ebd
+      internalID: 1745851513169645194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef982bf3be12d8448974f626f8ca4ed
+      internalID: 8025500442926520425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa39899423b188d4a9925a66d6ba7dd2
+      internalID: 2153368694563337157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8bb12a40111cb4a92e542c75502685
+      internalID: -624068897945686282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba496186b52006f45948e18fe44c8c20
+      internalID: -6827911648381833221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad92424349b564e9ddc1170f7194ef
+      internalID: -1077549358617386274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49800b2deeacd419c96c57bbd28b89
+      internalID: -8199678409541526888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9f609467a8ef64b9302d96ee7df866
+      internalID: 163468933234526806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aac755560ff124caa47c8d0ceb533b
+      internalID: -7443599804866545630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b33c5a40837084f93e8a1387d0b333
+      internalID: -5397453118721057931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd4118a1d7656940bd436dcb09b38b0
+      internalID: 1823637122111831721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab61638d4f24434fb197f5e4ff073e3
+      internalID: -7225071364811379975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12a9d7b3b980ce4ebf9d1fe6ef674a1
+      internalID: -9183213536384176602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4a36f898df7d42b699aeb476b60bc
+      internalID: -1955312264276700791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf552e3fe84bac4d96ceb6dc483bab9
+      internalID: 3812683151692904731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f179ce05d1827c6468eb6006f0a08ce6
+      internalID: 906273647270567062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_26
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94718b91195e0742bbdec4f8051c34c
+      internalID: -1998052123783544974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed70be1528834a4393352d3794e5f7b
+      internalID: -3943864040658082331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad28ec159c9cd41a5adbbbfc70b722
+      internalID: -6346226463190257733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4eadcdc674924f99c9da016be7f9c
+      internalID: -8754819325769622871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f55111a7548e754286a5d2b5101583b
+      internalID: 6087813619663351291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_31
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70594151005ed32419418581a8a2cb9c
+      internalID: 5821012247170321785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c521c7aa70c25d04d96012db62343cb3
+      internalID: 6315572739679370247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d7ed81b7422f43a0be6f401806870
+      internalID: -3825006229484592957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9890904a90141734a9ee230fa4a0bdd7
+      internalID: -8242812787755244092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_35
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aa92f53c4674f48b66030de31ebd8e
+      internalID: 6440660636099548928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b0e4cc0ca3b8e4ca71865fa4af5227
+      internalID: -6180463118313241464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7fab927463a1946976b2d97974a5d4
+      internalID: 4733551879331341378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099cb1ba5926750488d5439132cb23ae
+      internalID: 4721927179525178138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_39
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a71b11c422014c87ad63785b8db2f
+      internalID: 1253906550701230777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50de49d0be413f848955f368ef52db59
+      internalID: 4418020679718518393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a825b386bb08812469357b6f09a61f3d
+      internalID: 4329239137067668886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6659b2e2573b142b199de1a0447d0f
+      internalID: 1187831639833909492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0eabc1c28e2ff4cb89be60922044df
+      internalID: -3899237545220862954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc5a222775528b4e9d5b5db81d8d591
+      internalID: 7884561030610473549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82403c792b8ea21448268baee9fc7944
+      internalID: -2007041081444861464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699ea7f6416224498b9b2e0df6698a7
+      internalID: 3637045403544254985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid idle_47
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac49e2bfe5c6454bac01e9fe51a3498
+      internalID: 7138383696802311045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

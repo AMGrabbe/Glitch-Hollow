@@ -1,0 +1,1939 @@
+fileFormatVersion: 2
+guid: 08720fd235013fe4ea8a6ca544629512
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6269391393180905630
+    second: phantom_glitch__x1_giveHeart_png_1354836337_0
+  - first:
+      213: 3603352672341108313
+    second: phantom_glitch__x1_giveHeart_png_1354836337_1
+  - first:
+      213: -4446857235128288761
+    second: phantom_glitch__x1_giveHeart_png_1354836337_2
+  - first:
+      213: -5964847287647558802
+    second: phantom_glitch__x1_giveHeart_png_1354836337_3
+  - first:
+      213: -7601733790351318705
+    second: phantom_glitch__x1_giveHeart_png_1354836337_4
+  - first:
+      213: 8220389296555522383
+    second: phantom_glitch__x1_giveHeart_png_1354836337_5
+  - first:
+      213: -7555280852692035282
+    second: phantom_glitch__x1_giveHeart_png_1354836337_6
+  - first:
+      213: -8018305930732928614
+    second: phantom_glitch__x1_giveHeart_png_1354836337_7
+  - first:
+      213: 4345659764292718860
+    second: phantom_glitch__x1_giveHeart_png_1354836337_8
+  - first:
+      213: 1086602798098911030
+    second: phantom_glitch__x1_giveHeart_png_1354836337_9
+  - first:
+      213: 2734620866534572617
+    second: phantom_glitch__x1_giveHeart_png_1354836337_10
+  - first:
+      213: 5863526764562740545
+    second: phantom_glitch__x1_giveHeart_png_1354836337_11
+  - first:
+      213: -7171425455252824320
+    second: phantom_glitch__x1_giveHeart_png_1354836337_12
+  - first:
+      213: -6981384414680978891
+    second: phantom_glitch__x1_giveHeart_png_1354836337_13
+  - first:
+      213: -8158317615467231283
+    second: phantom_glitch__x1_giveHeart_png_1354836337_14
+  - first:
+      213: 3544073814571470412
+    second: phantom_glitch__x1_giveHeart_png_1354836337_15
+  - first:
+      213: 3024885463615264377
+    second: phantom_glitch__x1_giveHeart_png_1354836337_16
+  - first:
+      213: 5128728524983695369
+    second: phantom_glitch__x1_giveHeart_png_1354836337_17
+  - first:
+      213: 6906744201196941900
+    second: phantom_glitch__x1_giveHeart_png_1354836337_18
+  - first:
+      213: 8278658333495021563
+    second: phantom_glitch__x1_giveHeart_png_1354836337_19
+  - first:
+      213: 839007368715789365
+    second: phantom_glitch__x1_giveHeart_png_1354836337_20
+  - first:
+      213: 8510973531582193416
+    second: phantom_glitch__x1_giveHeart_png_1354836337_21
+  - first:
+      213: -8522581503377108569
+    second: phantom_glitch__x1_giveHeart_png_1354836337_22
+  - first:
+      213: -8798905761829061418
+    second: phantom_glitch__x1_giveHeart_png_1354836337_23
+  - first:
+      213: 1975087558219356345
+    second: phantom_glitch__x1_giveHeart_png_1354836337_24
+  - first:
+      213: 538063980489642200
+    second: phantom_glitch__x1_giveHeart_png_1354836337_25
+  - first:
+      213: 8892203848313547532
+    second: phantom_glitch__x1_giveHeart_png_1354836337_26
+  - first:
+      213: -3879832624001170004
+    second: phantom_glitch__x1_giveHeart_png_1354836337_27
+  - first:
+      213: -6708463171509741899
+    second: phantom_glitch__x1_giveHeart_png_1354836337_28
+  - first:
+      213: 2572611946082874812
+    second: phantom_glitch__x1_giveHeart_png_1354836337_29
+  - first:
+      213: -623582247226755179
+    second: phantom_glitch__x1_giveHeart_png_1354836337_30
+  - first:
+      213: 7497560274265729701
+    second: phantom_glitch__x1_giveHeart_png_1354836337_31
+  - first:
+      213: -4102469556393090877
+    second: phantom_glitch__x1_giveHeart_png_1354836337_32
+  - first:
+      213: -4873528723600659332
+    second: phantom_glitch__x1_giveHeart_png_1354836337_33
+  - first:
+      213: 7734900613691938042
+    second: phantom_glitch__x1_giveHeart_png_1354836337_34
+  - first:
+      213: -7272082308752735148
+    second: phantom_glitch__x1_giveHeart_png_1354836337_35
+  - first:
+      213: -4572567232579301603
+    second: phantom_glitch__x1_giveHeart_png_1354836337_36
+  - first:
+      213: 950885712527244088
+    second: phantom_glitch__x1_giveHeart_png_1354836337_37
+  - first:
+      213: 5487334909562161675
+    second: phantom_glitch__x1_giveHeart_png_1354836337_38
+  - first:
+      213: -5967912788095740766
+    second: phantom_glitch__x1_giveHeart_png_1354836337_39
+  - first:
+      213: -8600688960002480259
+    second: phantom_glitch__x1_giveHeart_png_1354836337_40
+  - first:
+      213: -3647279766535280543
+    second: phantom_glitch__x1_giveHeart_png_1354836337_41
+  - first:
+      213: 7799642871451369077
+    second: phantom_glitch__x1_giveHeart_png_1354836337_42
+  - first:
+      213: -1231551495509613619
+    second: phantom_glitch__x1_giveHeart_png_1354836337_43
+  - first:
+      213: -8067631774798252559
+    second: phantom_glitch__x1_giveHeart_png_1354836337_44
+  - first:
+      213: -17758679893463284
+    second: phantom_glitch__x1_giveHeart_png_1354836337_45
+  - first:
+      213: 3648137729812264069
+    second: phantom_glitch__x1_giveHeart_png_1354836337_46
+  - first:
+      213: 6289858137297315595
+    second: phantom_glitch__x1_giveHeart_png_1354836337_47
+  - first:
+      213: -1147440800277905705
+    second: phantom_glitch__x1_giveHeart_png_1354836337_48
+  - first:
+      213: -8541531380861644533
+    second: phantom_glitch__x1_giveHeart_png_1354836337_49
+  - first:
+      213: 6478247760259083078
+    second: phantom_glitch__x1_giveHeart_png_1354836337_50
+  - first:
+      213: 3227877980596142461
+    second: phantom_glitch__x1_giveHeart_png_1354836337_51
+  - first:
+      213: -8062734881791849049
+    second: phantom_glitch__x1_giveHeart_png_1354836337_52
+  - first:
+      213: 8435826644646098220
+    second: phantom_glitch__x1_giveHeart_png_1354836337_53
+  - first:
+      213: -5622700133386491677
+    second: phantom_glitch__x1_giveHeart_png_1354836337_54
+  - first:
+      213: 8969565428249406474
+    second: phantom_glitch__x1_giveHeart_png_1354836337_55
+  - first:
+      213: -8629185260546677666
+    second: phantom_glitch__x1_giveHeart_png_1354836337_56
+  - first:
+      213: 2980135155304555770
+    second: phantom_glitch__x1_giveHeart_png_1354836337_57
+  - first:
+      213: 2455226442471121164
+    second: phantom_glitch__x1_giveHeart_png_1354836337_58
+  - first:
+      213: -7339181086968324835
+    second: phantom_glitch__x1_giveHeart_png_1354836337_59
+  - first:
+      213: -3414351044149796798
+    second: phantom_glitch__x1_giveHeart_png_1354836337_60
+  - first:
+      213: -1677888342083443684
+    second: phantom_glitch__x1_giveHeart_png_1354836337_61
+  - first:
+      213: -8474533270845699376
+    second: phantom_glitch__x1_giveHeart_png_1354836337_62
+  - first:
+      213: -5084751014429639229
+    second: phantom_glitch__x1_giveHeart_png_1354836337_63
+  - first:
+      213: 6631589778776608775
+    second: phantom_glitch__x1_giveHeart_png_1354836337_64
+  - first:
+      213: 6882100776473162739
+    second: phantom_glitch__x1_giveHeart_png_1354836337_65
+  - first:
+      213: -6197451580813362969
+    second: phantom_glitch__x1_giveHeart_png_1354836337_66
+  - first:
+      213: -2359193264377110979
+    second: phantom_glitch__x1_giveHeart_png_1354836337_67
+  - first:
+      213: -5253638887713728650
+    second: phantom_glitch__x1_giveHeart_png_1354836337_68
+  - first:
+      213: -3505806208699324513
+    second: phantom_glitch__x1_giveHeart_png_1354836337_69
+  - first:
+      213: 328957943600933735
+    second: phantom_glitch__x1_giveHeart_png_1354836337_70
+  - first:
+      213: 7635024834614302770
+    second: phantom_glitch__x1_giveHeart_png_1354836337_71
+  - first:
+      213: 8818001218346036111
+    second: phantom_glitch__x1_giveHeart_png_1354836337_72
+  - first:
+      213: -956060624126589212
+    second: phantom_glitch__x1_giveHeart_png_1354836337_73
+  - first:
+      213: -4366753539689850637
+    second: phantom_glitch__x1_giveHeart_png_1354836337_74
+  - first:
+      213: 2375542527378669227
+    second: phantom_glitch__x1_giveHeart_png_1354836337_75
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b2df44e2eff544e8c0c7b846e66dc5
+      internalID: 6269391393180905630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32ea5291ffa68b4d998dadfdbdf324c
+      internalID: 3603352672341108313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04faa99696a16a4ea894ebe666b1324
+      internalID: -4446857235128288761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d8233ad398d9749b6eb2ef1d97ef42
+      internalID: -5964847287647558802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c245fdc5abbbf34a8afe3827b3cda13
+      internalID: -7601733790351318705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2568
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20579c55963ce7b47a34712bf7b6d82a
+      internalID: 8220389296555522383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb914c0652b2a947869df289dd6a013
+      internalID: -7555280852692035282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850fb4c7ceb1b5744b493c93b6344236
+      internalID: -8018305930732928614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d28b9df2806f8f44b32099c415d095a
+      internalID: 4345659764292718860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f6906451df6134586e91a3d910d1bb
+      internalID: 1086602798098911030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfba6e7bf03fa240b3ceec488ee81f2
+      internalID: 2734620866534572617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2354
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c20c1e3717822419e1fc37389afb80
+      internalID: 5863526764562740545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676a7de2653cf4d4ba4624e245d7b4f9
+      internalID: -7171425455252824320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97badc875c729468de451335b2c377
+      internalID: -6981384414680978891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67faf1ddf85c61e4497484e1f59e69c5
+      internalID: -8158317615467231283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d8d7fcfe0543049bd682fb8aa300ca
+      internalID: 3544073814571470412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_16
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5d3db345fa6884b8aceaf942a72211
+      internalID: 3024885463615264377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_17
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2140
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f384c403181ba498ff861c4c5edede
+      internalID: 5128728524983695369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb2a05f5f53a744e9a469370052c03f
+      internalID: 6906744201196941900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4406775d7e9b2459346031f3527117
+      internalID: 8278658333495021563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c57c873138de448a335e6b42420f06
+      internalID: 839007368715789365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5153ca4f7faaef9439e8e0312162765a
+      internalID: 8510973531582193416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08814fd46218e645b9ceb7332157b91
+      internalID: -8522581503377108569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1926
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef589a56014ebf468f4167669c70ff6
+      internalID: -8798905761829061418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394a5c8d8f418640a4583829b7f55a9
+      internalID: 1975087558219356345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6246f80fc745ae4b89526a34fbdfe57
+      internalID: 538063980489642200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc48f774d85e5a44882feccb60871e3b
+      internalID: 8892203848313547532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e8b0694891e1640ade966c1942e64e
+      internalID: -3879832624001170004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_28
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7555cab06283740a7a20de687956e0
+      internalID: -6708463171509741899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_29
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1712
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a48e6c48d9ae28448ddc72883d7ef49
+      internalID: 2572611946082874812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d4c9df036e5ac47aba1fe6f7827f1c
+      internalID: -623582247226755179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9793d7c28d677714a9f032047d2b60f4
+      internalID: 7497560274265729701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8b1d363d6082346a0b8b7993597e55
+      internalID: -4102469556393090877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ba64d4120f5d448133d381b7ff0d3
+      internalID: -4873528723600659332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25521d99e579e0447af971d473e12ecf
+      internalID: 7734900613691938042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_35
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1498
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c2f711eb33904499e95df96fec274
+      internalID: -7272082308752735148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec429224b31597e4c9b826b28974e186
+      internalID: -4572567232579301603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940152bb953e09d48849cd27f25f39df
+      internalID: 950885712527244088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d4074c668dd094e8e0a80e501611ae
+      internalID: 5487334909562161675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795d9205be9d9b04d8d1ed6d6f74029f
+      internalID: -5967912788095740766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_40
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd74221c4439b4f859b9fa2e47602f
+      internalID: -8600688960002480259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_41
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1284
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6ee74cfa59c54b997c95c68b4ca0e
+      internalID: -3647279766535280543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2931f06944e7ed2429592f9d27efd4ed
+      internalID: 7799642871451369077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9b77588de20044d8c0417e4c0f6efe
+      internalID: -1231551495509613619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_44
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c97e35edd9304494165bc646b4761
+      internalID: -8067631774798252559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_45
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dff7b7bd2d4fae4f9e715cee71dacf0
+      internalID: -17758679893463284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_46
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57850b845712a2244ae2ef12ab122856
+      internalID: 3648137729812264069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_47
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1070
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba1423e91f9c4f43ab886a90df4c9e3
+      internalID: 6289858137297315595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6ca86ef622559478c0707d3481df86
+      internalID: -1147440800277905705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d7d5a305fe0bb428265c67c7957ccc
+      internalID: -8541531380861644533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f56ca8e8bebf524f9c7995ed63db01b
+      internalID: 6478247760259083078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e0a2c05e8cf65458b3ef18fbc4084c
+      internalID: 3227877980596142461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_52
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d5a4c21af9f8a47a047b7b9d3dc5c6
+      internalID: -8062734881791849049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 856
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db77f131af41cd648a9e05df91501f0a
+      internalID: 8435826644646098220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd93137ce21b08a47ae6ac4a9b47bc04
+      internalID: -5622700133386491677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_55
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3a15c6250eded4aaa5514fb023f623
+      internalID: 8969565428249406474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_56
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d8f24681fbf2a4791ca463a78b6880
+      internalID: -8629185260546677666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451302eaa70dba447b5a2a1f7a39eaa5
+      internalID: 2980135155304555770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_58
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d667ebdb68ce4f141bc9e7def677f628
+      internalID: 2455226442471121164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_59
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 642
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9edce6084b5e0440a187d41016fbf11
+      internalID: -7339181086968324835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bbc41d9562cfb4db50548850cf1b0e
+      internalID: -3414351044149796798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513955ccec1bb0646bff8c22fb423ab2
+      internalID: -1677888342083443684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_62
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c53fc69a87e164bbe523415ff21683
+      internalID: -8474533270845699376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_63
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e291907b7392fc4b95af2ae9446b41b
+      internalID: -5084751014429639229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_64
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebff36c8300c8541a7e56ec904817b7
+      internalID: 6631589778776608775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_65
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 428
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45698b442ab2f9344be3d52413992c68
+      internalID: 6882100776473162739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaa3fd822dabac4882b1c9d13f9ce69
+      internalID: -6197451580813362969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_67
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11dc2f3e0964147bb8c670b8129bbc
+      internalID: -2359193264377110979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_68
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f64464024de624da599a81a10da4bb
+      internalID: -5253638887713728650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f4c54e5ffd1e4ca355f8cfd9c9d08
+      internalID: -3505806208699324513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_70
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244cccac8c1d2fb45bec8778502fcf55
+      internalID: 328957943600933735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_71
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 214
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48358813894b2574180c37d4ec9c6904
+      internalID: 7635024834614302770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a319e91879b8148ba2166cf0ededdc
+      internalID: 8818001218346036111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6559b18e38320d448aa8ba24dcfe8cf
+      internalID: -956060624126589212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3ca7b8288dfb42b6dbf79d67b2ec6
+      internalID: -4366753539689850637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: phantom_glitch__x1_giveHeart_png_1354836337_75
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 0
+        width: 147
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdb1b274693a4d4d8a1777c00bd7a01
+      internalID: 2375542527378669227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

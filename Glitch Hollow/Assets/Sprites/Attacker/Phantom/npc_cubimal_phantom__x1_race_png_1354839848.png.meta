@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: 9a7c94553f6308444a6bb00236ff12cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -267313758137786780
+    second: npc_cubimal_phantom__x1_race_png_1354839848_0
+  - first:
+      213: 112466601200037551
+    second: npc_cubimal_phantom__x1_race_png_1354839848_1
+  - first:
+      213: 3890173035108038708
+    second: npc_cubimal_phantom__x1_race_png_1354839848_2
+  - first:
+      213: 2561672748017875528
+    second: npc_cubimal_phantom__x1_race_png_1354839848_3
+  - first:
+      213: -997169836641470225
+    second: npc_cubimal_phantom__x1_race_png_1354839848_4
+  - first:
+      213: 4162901924151872155
+    second: npc_cubimal_phantom__x1_race_png_1354839848_5
+  - first:
+      213: 1966287415751261520
+    second: npc_cubimal_phantom__x1_race_png_1354839848_6
+  - first:
+      213: 1530820011296678420
+    second: npc_cubimal_phantom__x1_race_png_1354839848_7
+  - first:
+      213: -587010824564728365
+    second: npc_cubimal_phantom__x1_race_png_1354839848_8
+  - first:
+      213: 952585558001878867
+    second: npc_cubimal_phantom__x1_race_png_1354839848_9
+  - first:
+      213: 154779936848465371
+    second: npc_cubimal_phantom__x1_race_png_1354839848_10
+  - first:
+      213: 4577810745924167784
+    second: npc_cubimal_phantom__x1_race_png_1354839848_11
+  - first:
+      213: 6573473261256727221
+    second: npc_cubimal_phantom__x1_race_png_1354839848_12
+  - first:
+      213: -8007543182888525059
+    second: npc_cubimal_phantom__x1_race_png_1354839848_13
+  - first:
+      213: -6126613734237349429
+    second: npc_cubimal_phantom__x1_race_png_1354839848_14
+  - first:
+      213: -8537442890290514367
+    second: npc_cubimal_phantom__x1_race_png_1354839848_15
+  - first:
+      213: -8769805432389296003
+    second: npc_cubimal_phantom__x1_race_png_1354839848_16
+  - first:
+      213: -8258955560299226925
+    second: npc_cubimal_phantom__x1_race_png_1354839848_17
+  - first:
+      213: 5722288323698418617
+    second: npc_cubimal_phantom__x1_race_png_1354839848_18
+  - first:
+      213: -9072487434332974374
+    second: npc_cubimal_phantom__x1_race_png_1354839848_19
+  - first:
+      213: -74132941291418713
+    second: npc_cubimal_phantom__x1_race_png_1354839848_20
+  - first:
+      213: 505707510426810699
+    second: npc_cubimal_phantom__x1_race_png_1354839848_21
+  - first:
+      213: -6625158561314743904
+    second: npc_cubimal_phantom__x1_race_png_1354839848_22
+  - first:
+      213: 1763946818713639655
+    second: npc_cubimal_phantom__x1_race_png_1354839848_23
+  - first:
+      213: -5713512656212419847
+    second: npc_cubimal_phantom__x1_race_png_1354839848_24
+  - first:
+      213: 7366718104056275353
+    second: npc_cubimal_phantom__x1_race_png_1354839848_25
+  - first:
+      213: -5406315532795997064
+    second: npc_cubimal_phantom__x1_race_png_1354839848_26
+  - first:
+      213: -1267013879205648998
+    second: npc_cubimal_phantom__x1_race_png_1354839848_27
+  - first:
+      213: -8109599855557147184
+    second: npc_cubimal_phantom__x1_race_png_1354839848_28
+  - first:
+      213: -1769239828796675383
+    second: npc_cubimal_phantom__x1_race_png_1354839848_29
+  - first:
+      213: -2157924910631214279
+    second: npc_cubimal_phantom__x1_race_png_1354839848_30
+  - first:
+      213: -7026063591714765974
+    second: npc_cubimal_phantom__x1_race_png_1354839848_31
+  - first:
+      213: 1720868753116478050
+    second: npc_cubimal_phantom__x1_race_png_1354839848_32
+  - first:
+      213: -3658390639727993413
+    second: npc_cubimal_phantom__x1_race_png_1354839848_33
+  - first:
+      213: 8301784657843091611
+    second: npc_cubimal_phantom__x1_race_png_1354839848_34
+  - first:
+      213: 6316522469547115112
+    second: npc_cubimal_phantom__x1_race_png_1354839848_35
+  - first:
+      213: 6204580217739674393
+    second: npc_cubimal_phantom__x1_race_png_1354839848_36
+  - first:
+      213: 1058524762757181203
+    second: npc_cubimal_phantom__x1_race_png_1354839848_37
+  - first:
+      213: -3673605097705973490
+    second: npc_cubimal_phantom__x1_race_png_1354839848_38
+  - first:
+      213: 8662967151459905575
+    second: npc_cubimal_phantom__x1_race_png_1354839848_39
+  - first:
+      213: -7723380582301298837
+    second: npc_cubimal_phantom__x1_race_png_1354839848_40
+  - first:
+      213: 3052925848239413128
+    second: npc_cubimal_phantom__x1_race_png_1354839848_41
+  - first:
+      213: 1614931176030232882
+    second: npc_cubimal_phantom__x1_race_png_1354839848_42
+  - first:
+      213: -8696624520665013199
+    second: npc_cubimal_phantom__x1_race_png_1354839848_43
+  - first:
+      213: 1726902026407377492
+    second: npc_cubimal_phantom__x1_race_png_1354839848_44
+  - first:
+      213: 5565368252878781393
+    second: npc_cubimal_phantom__x1_race_png_1354839848_45
+  - first:
+      213: 5833696606246849142
+    second: npc_cubimal_phantom__x1_race_png_1354839848_46
+  - first:
+      213: -5440502517910929741
+    second: npc_cubimal_phantom__x1_race_png_1354839848_47
+  - first:
+      213: 6813581380640735722
+    second: npc_cubimal_phantom__x1_race_png_1354839848_48
+  - first:
+      213: 3353326947745544989
+    second: npc_cubimal_phantom__x1_race_png_1354839848_49
+  - first:
+      213: 1375390024750824632
+    second: npc_cubimal_phantom__x1_race_png_1354839848_50
+  - first:
+      213: -3177495551536043079
+    second: npc_cubimal_phantom__x1_race_png_1354839848_51
+  - first:
+      213: 3584409092499903950
+    second: npc_cubimal_phantom__x1_race_png_1354839848_52
+  - first:
+      213: -4752782634947415990
+    second: npc_cubimal_phantom__x1_race_png_1354839848_53
+  - first:
+      213: -6678609204005103334
+    second: npc_cubimal_phantom__x1_race_png_1354839848_54
+  - first:
+      213: 8494216972939139641
+    second: npc_cubimal_phantom__x1_race_png_1354839848_55
+  - first:
+      213: 2202931398426887023
+    second: npc_cubimal_phantom__x1_race_png_1354839848_56
+  - first:
+      213: 6802729155898721422
+    second: npc_cubimal_phantom__x1_race_png_1354839848_57
+  - first:
+      213: -4854684850691888076
+    second: npc_cubimal_phantom__x1_race_png_1354839848_58
+  - first:
+      213: -1243805807815289293
+    second: npc_cubimal_phantom__x1_race_png_1354839848_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c108cb74dfa3d7148af41f32b97664dc
+      internalID: -267313758137786780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7df3b66af981b4697cd5613adae546
+      internalID: 112466601200037551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17e4be297c73c44783fcae3132f89b8
+      internalID: 3890173035108038708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ae08f19dcd0c342b80bc36d20d26fd
+      internalID: 2561672748017875528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa95253bf08f9a4498f39c9ee72e7c8
+      internalID: -997169836641470225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f899b3185148d488a1b091dda1b66b
+      internalID: 4162901924151872155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e01ac6ad5771243873007e18384c44
+      internalID: 1966287415751261520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03b5222159658f4cb6f433228d3d8d1
+      internalID: 1530820011296678420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd353b39c612952409fe4840b2b71ac3
+      internalID: -587010824564728365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c47637875fba441bc1273d176ab70d
+      internalID: 952585558001878867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4ddbe2c32c1ef45a7c272dd3433729
+      internalID: 154779936848465371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1915c10386a2047848a58502c14ccd
+      internalID: 4577810745924167784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd46442ee7d19e40955d7cad1d9cf34
+      internalID: 6573473261256727221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cc06625f768dc4082396695512c24c
+      internalID: -8007543182888525059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d26f703fbfa544185eb54ea3ac35ee
+      internalID: -6126613734237349429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ee326efeb9ff4fa4fd0465d8d98f8
+      internalID: -8537442890290514367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177948c034072745b0c136b8b06e0f9
+      internalID: -8769805432389296003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13cde9d16d67f74d96eee2de8d0ca05
+      internalID: -8258955560299226925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d499c43c60dbb334fb0b4e7ff8ad2649
+      internalID: 5722288323698418617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 66
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef402a7df7f3d4543bc73a44c3b3a5da
+      internalID: -9072487434332974374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28155021d3db6db498fbc327fab6e8ae
+      internalID: -74132941291418713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f120375a73602a74e8e3794d479ce88e
+      internalID: 505707510426810699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d56008483ef9644941c3d250ec4d77
+      internalID: -6625158561314743904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e894a39bc374d44ab495b2df17e3f4a
+      internalID: 1763946818713639655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540c2602d79a291488658f03454a723d
+      internalID: -5713512656212419847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe480f4d6b8c144098782fc1bbe674b
+      internalID: 7366718104056275353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b3756b97451ce4bb4744ac1fa65654
+      internalID: -5406315532795997064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2ec8eaa19ae884d936a3d0990dd40b
+      internalID: -1267013879205648998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60691481144484e45a084ee3efd9ba37
+      internalID: -8109599855557147184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7fe3a8578980e47a0fa6f39d255398
+      internalID: -1769239828796675383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43057f994e5d864cbfa66492c07e751
+      internalID: -2157924910631214279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257df3e00b5362f42bb877d29075e44b
+      internalID: -7026063591714765974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9ec314ef0d8c04e9544a4ad9581fb4
+      internalID: 1720868753116478050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5686ee35ebb9b4ba9e87095d13a98d
+      internalID: -3658390639727993413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34099e9dee38d7e418991169388a3cd4
+      internalID: 8301784657843091611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab17241baecdca74694ba0df7506eb92
+      internalID: 6316522469547115112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b607f2ce56734fb479348fbb8ea40c75
+      internalID: 6204580217739674393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4786d03370d766847ac454e582ee140a
+      internalID: 1058524762757181203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_38
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef283dd424b6764aa90b44aca87e6fc
+      internalID: -3673605097705973490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_39
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 33
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b9aee485d86db4fb9f8f90eb4ba66b
+      internalID: 8662967151459905575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cfa79230469ee4f8c3e9a9dffec475
+      internalID: -7723380582301298837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317230f8c19aff74e9c1b32d47956b39
+      internalID: 3052925848239413128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45702b35596b91a4a8ec93810d67498d
+      internalID: 1614931176030232882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eb14effe4a64b41ac53cdedce3c20f
+      internalID: -8696624520665013199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05de2070f5c29a64090325e1aa962b6f
+      internalID: 1726902026407377492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2b79fdb8b2b004e8b568e8d3d5f917
+      internalID: 5565368252878781393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b884df2fb0c444387c9011b64a69e5
+      internalID: 5833696606246849142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57db707bb92cac14197a0b7cdbdd5386
+      internalID: -5440502517910929741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bbf7d9ea2d0164e8a5cfe542f99e3f
+      internalID: 6813581380640735722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b003c02c9196242a2c5700ccf7d0be
+      internalID: 3353326947745544989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ae1a2e1c29654da19f53e933e8371
+      internalID: 1375390024750824632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_51
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4750cefd6b48c4f9465a21ee8057ec
+      internalID: -3177495551536043079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e391ec95c08a4a14abc88b577e15211f
+      internalID: 3584409092499903950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6936bdf7eeef94fbfd15be448721af
+      internalID: -4752782634947415990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27334f4c82fce50448f1e3f4eb290219
+      internalID: -6678609204005103334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db3f5b7d092e86479bf8c7a4a079db7
+      internalID: 8494216972939139641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06cafe6fb007d34bbbd3c1608f35366
+      internalID: 2202931398426887023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_57
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c0790a1bb2a44c8d5884eda985cd5
+      internalID: 6802729155898721422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_58
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdbaa290d373714fa92fa1506658867
+      internalID: -4854684850691888076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cubimal_phantom__x1_race_png_1354839848_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e6e30e8bac2540b8ff5bb43ec0aca
+      internalID: -1243805807815289293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

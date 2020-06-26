@@ -1,0 +1,1243 @@
+fileFormatVersion: 2
+guid: 7dc2a69901bb3d8429a073449f6cc13e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7824327952949379595
+    second: squid attract_0
+  - first:
+      213: -7758646917347232456
+    second: squid attract_1
+  - first:
+      213: -4793838061775755429
+    second: squid attract_2
+  - first:
+      213: -8923816981756275183
+    second: squid attract_3
+  - first:
+      213: 1440196619267636637
+    second: squid attract_4
+  - first:
+      213: -5136086225335626552
+    second: squid attract_5
+  - first:
+      213: 6858216127086277865
+    second: squid attract_6
+  - first:
+      213: 5117845018302102381
+    second: squid attract_7
+  - first:
+      213: -4525649812649831700
+    second: squid attract_8
+  - first:
+      213: -1353672092077688449
+    second: squid attract_9
+  - first:
+      213: -3484904584653145174
+    second: squid attract_10
+  - first:
+      213: 5414783900945428768
+    second: squid attract_11
+  - first:
+      213: 5988706854844832156
+    second: squid attract_12
+  - first:
+      213: 6902821480313943275
+    second: squid attract_13
+  - first:
+      213: 3388962009831139096
+    second: squid attract_14
+  - first:
+      213: 8971663964313568014
+    second: squid attract_15
+  - first:
+      213: 971263365682125497
+    second: squid attract_16
+  - first:
+      213: 598848249749502633
+    second: squid attract_17
+  - first:
+      213: 3871605081161417218
+    second: squid attract_18
+  - first:
+      213: 8524756422858632960
+    second: squid attract_19
+  - first:
+      213: -4286139078041808
+    second: squid attract_20
+  - first:
+      213: 4873603012147072010
+    second: squid attract_21
+  - first:
+      213: 1477341857851750728
+    second: squid attract_22
+  - first:
+      213: 3422647525750716546
+    second: squid attract_23
+  - first:
+      213: 7997869315950765774
+    second: squid attract_24
+  - first:
+      213: 1281510560019116149
+    second: squid attract_25
+  - first:
+      213: 3371429141877783163
+    second: squid attract_26
+  - first:
+      213: 4713583914129461889
+    second: squid attract_27
+  - first:
+      213: 7945676140882161931
+    second: squid attract_28
+  - first:
+      213: -8033550057103255600
+    second: squid attract_29
+  - first:
+      213: 6624197129373398163
+    second: squid attract_30
+  - first:
+      213: -6864598139346230442
+    second: squid attract_31
+  - first:
+      213: -2596017640732617535
+    second: squid attract_32
+  - first:
+      213: -2854678572901481955
+    second: squid attract_33
+  - first:
+      213: -1914260099600219395
+    second: squid attract_34
+  - first:
+      213: 5023759329707213299
+    second: squid attract_35
+  - first:
+      213: 8589505136510211621
+    second: squid attract_36
+  - first:
+      213: -1760483240977293509
+    second: squid attract_37
+  - first:
+      213: 1201412469311920415
+    second: squid attract_38
+  - first:
+      213: 2456646605984738857
+    second: squid attract_39
+  - first:
+      213: 7341261806745046222
+    second: squid attract_40
+  - first:
+      213: -8964751660806800410
+    second: squid attract_41
+  - first:
+      213: 9099601608320022109
+    second: squid attract_42
+  - first:
+      213: 3726594477747090944
+    second: squid attract_43
+  - first:
+      213: -5045421047154068107
+    second: squid attract_44
+  - first:
+      213: 3827225794239310330
+    second: squid attract_45
+  - first:
+      213: -6519223039020736603
+    second: squid attract_46
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: squid attract_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caefd73ce23085f47843063effa8e252
+      internalID: 7824327952949379595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb292fa52b2f5e4eb4ec27fb5ef6a2d
+      internalID: -7758646917347232456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fe94469fc22a64ba2585813026f49d
+      internalID: -4793838061775755429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2761
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01f06ecf30d6e745a101e4b59f8080d
+      internalID: -8923816981756275183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b776a6c9ac7e14da557fb4b2222e87
+      internalID: 1440196619267636637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a178e5819a5d452449e230c9433f4692
+      internalID: -5136086225335626552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_6
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f46c1d90f1798840ae15d015b3335ce
+      internalID: 6858216127086277865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_7
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2510
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa611a1c301ed04e8d24f303749de18
+      internalID: 5117845018302102381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b3ed7737aad6b4db4185074e7b3fc1
+      internalID: -4525649812649831700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_9
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f5b3500d61f474fb60e1e2fe3b3a3b
+      internalID: -1353672092077688449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91655747890e0f444a2d19c34de86d36
+      internalID: -3484904584653145174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2259
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1116a8fbe7e9424daa87925eb323755
+      internalID: 5414783900945428768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddb6ea68f37e864292d71e866639e67
+      internalID: 5988706854844832156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275838f3e987e0143b1041f65b7daf38
+      internalID: 6902821480313943275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31b559c91176034bb9ea3b52459bf81
+      internalID: 3388962009831139096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2008
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201ac2f1e6f56d5488dadd3be658df44
+      internalID: 8971663964313568014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029918421519f674697cbf9998af4c76
+      internalID: 971263365682125497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a5ee663e024dd4bb754d7be2f45fc2
+      internalID: 598848249749502633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063ec1bb7e086f64b8d3115b7b7cbb5a
+      internalID: 3871605081161417218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1757
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e073c9cb965b939468b30e3abff15309
+      internalID: 8524756422858632960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f605263d69ba744b2cd970bbd3baaa
+      internalID: -4286139078041808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4154f1feddc89234294ab315148d1ac5
+      internalID: 4873603012147072010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac53ff6cce1bf488a813c20a82d5e7
+      internalID: 1477341857851750728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_23
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1506
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094a37d4d1996a4d95dafe1da2c8601
+      internalID: 3422647525750716546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adb04f541b0a0449a6af44a107722d1
+      internalID: 7997869315950765774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5017be0f685fa4982a85ca5fac22b1
+      internalID: 1281510560019116149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_26
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5186363c9947e4429750c0a4238b3ae
+      internalID: 3371429141877783163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1255
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4699e0aa5e8ab6c429c7f48ccf31c3ab
+      internalID: 4713583914129461889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe01029c98d7e64c99ff57779f343e4
+      internalID: 7945676140882161931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d577f0588622cda4481c863c84b8f0f6
+      internalID: -8033550057103255600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a20c4f57c360e64f97c0c055387da4e
+      internalID: 6624197129373398163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_31
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1004
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ba161f1d92574f8b6f23b7fb9d777
+      internalID: -6864598139346230442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ebc73929cec70489fa18e239f7ae6b
+      internalID: -2596017640732617535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8100e64ed9efc5a4aae45faf66eef601
+      internalID: -2854678572901481955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4c53045152a047b5134958172f176
+      internalID: -1914260099600219395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_35
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 753
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a2ebc1a92fd2a4cad61bfa5ac9f5c8
+      internalID: 5023759329707213299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a1d6f2bbe78524ea1dfa63b13555a6
+      internalID: 8589505136510211621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c6e15ff6240fc49973398ea5fdf358
+      internalID: -1760483240977293509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_38
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ec89b33ac8c374db757f407fd45999
+      internalID: 1201412469311920415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_39
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 502
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5904d72c4c12dc4ea5e3f4e29d9a66f
+      internalID: 2456646605984738857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4916f441106f0db4d97c55829d8a159c
+      internalID: 7341261806745046222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_41
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112577442370ca41b460ea7dd1adbe7
+      internalID: -8964751660806800410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_42
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a1de1198a7e61458e47061a4492818
+      internalID: 9099601608320022109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 251
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ff7d6ac8abe7418f29a4f10cef219
+      internalID: 3726594477747090944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee62bd7f1e87e564d84045d6ebff5fda
+      internalID: -5045421047154068107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_45
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3d8d7c53ad9ab49b2f4de35636b218
+      internalID: 3827225794239310330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: squid attract_46
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 235
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a55ce30b6fac41b4d21b1cc40a297
+      internalID: -6519223039020736603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
